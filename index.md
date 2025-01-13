@@ -8,8 +8,8 @@ This is a simple GitHub Page created to publish the result of the representation
 
 The exercices currently available are:
 
-- [PAC2](PAC2/PAC2.md)
 - [PAC3](PAC3/PAC3.md)
+- [Projecte](Projecte/Projecte.md)
 
 ## Contact
 
