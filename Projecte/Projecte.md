@@ -8,9 +8,9 @@ The presence of dark matter in the Milky Way has been a subject of extensive stu
 ### Rotation Curves
 One of the key pieces of evidence for dark matter comes from the rotation curves of galaxies. A rotation curve plots the orbital velocity of stars and gas in a galaxy against their distance from the galactic center. According to mechanics, we would expect the velocity to decrease with distance from the center, as the gravitational force weakens; otherwise the galaxy would fly apart. This velocity is known as the escape velocity, and it is given by the equation[1]:
 
-\[
+$$
 v_{esc} = \sqrt{\frac{2GM}{r}}
-\]
+$$
 
 where \(v_{esc}\) is the escape velocity, \(G\) is the gravitational constant, \(M\) is the mass enclosed within the radius \(r\), and \(r\) is the distance from the center.
 
