@@ -17,9 +17,9 @@ v_{esc} = \sqrt{\frac{2GM}{r}}
 $$
 
 
-where $v_{esc}$ is the escape velocity, $G$ is the gravitational constant, $M$ is the mass enclosed within the radius $r$, and $r$ is the distance from the center.
+where \\(v_{esc})\\ is the escape velocity, \\(G\\) is the gravitational constant, \\(M\\) is the mass enclosed within the radius \\(r\\), and \\(r\\) is the distance from the center.
 
-Therefore, the greater the distance from the center, the lower the velocity should be. However, this is only applicable considering that the mass os the galaxy $M$ is mainly concentrated in the center, which should be the case for the Milky Way (at least for the region we are located in)[2].
+Therefore, the greater the distance from the center, the lower the velocity should be. However, this is only applicable considering that the mass os the galaxy \\(M\\) is mainly concentrated in the center, which should be the case for the Milky Way (at least for the region we are located in)[2].
 
 #### Alternative Explanation
 
