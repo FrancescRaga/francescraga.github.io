@@ -20,14 +20,6 @@ where \\(v_{esc}\\) is the escape velocity, \\(G\\) is the gravitational constan
 
 Therefore, the greater the distance from the center, the lower the velocity should be. However, this is only applicable considering that the mass os the galaxy \\(M\\) is mainly concentrated in the center, which should be the case for the Milky Way (at least for the region we are located in)[2].
 
-where \$v_{esc}\$ is the escape velocity, \$G\$ is the gravitational constant, \$M\$ is the mass enclosed within the radius \$r\$, and \$r\$ is the distance from the center.
-
-Therefore, the greater the distance from the center, the lower the velocity should be. However, this is only applicable considering that the mass os the galaxy \$M\$ is mainly concentrated in the center, which should be the case for the Milky Way (at least for the region we are located in)[2].
-
-where $v_{esc}$ is the escape velocity, $G$ is the gravitational constant, $M$ is the mass enclosed within the radius $r$, and $r$ is the distance from the center.
-
-Therefore, the greater the distance from the center, the lower the velocity should be. However, this is only applicable considering that the mass os the galaxy $M$ is mainly concentrated in the center, which should be the case for the Milky Way (at least for the region we are located in)[2].
-
 #### Alternative Explanation
 
 If contrary to what we expect the velocity remains constant or even increases with distance from the center, this can only be explained by the presence of additional mass in the galaxy that is not accounted for by the visible matter, i.e., dark matter. This additional mass would provide the necessary gravitational force to keep the stars and gas in their orbits, resulting in a flat or increasing rotation curve.
