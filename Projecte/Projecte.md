@@ -28,7 +28,7 @@ To analyze the presence of dark matter in the Milky Way, we use data from RAVE a
 
 The rotation curve of the Milky Way is shown in Figure 1. As we can see, the velocity remains relatively constant with distance from the center, discarting the posibility of the mass being concentrated in the center as suggested by the visible matter. This is a strong indication of the presence of dark matter in the galaxy.
 
-<iframe src="figures/RotCurve.html" width="1000" height="400"></iframe>
+<iframe src="figures/RotCurve.html" width="1050" height="450"></iframe>
 *Figure 1: Rotation curve of the Milky Way*
 
 #### Theoretical component
@@ -40,7 +40,7 @@ Each component has a different mass distribution and contributes differently to 
 
 The model in Figure 2 shows the rotation curve of the Milky Way with the theoretical contributions of the bulge and disk. The parameters of each potential component were adjusted to fit the observations[2]. Additionally, the graph incorporates a third component representing the <span style="color:green">dark matter</span>, distributed in a spherical halo around the galaxy. To try to fit the observed rotation curve, the mass of the dark matter halo was adjusted to 16 times the mass of the visible matter.
 
-<iframe src="figures/RotCurveComponents.html" width="1000" height="400"></iframe>
+<iframe src="figures/RotCurveComponents.html" width="1050" height="450"></iframe>
 *Figure 2: Rotation curve of the Milky Way divided by component*
 
 As we can see, the theoretical model don't ajust perfectly with the observed rotation curve. Meaning that the proposed mass distribution is not able to explain the observed rotation curve. This suggests that the mass distribution of the galaxy is more complex than the model we used. However, the graph do allow us to determine that <span style="color:green">dark matter</span> is necessary to explain the observed rotation curve, as **the visible matter alone is not enough to account for the observed velocity**.
@@ -52,8 +52,6 @@ Having seen that the presence of dark matter is necessary to explain the rotatio
 Therefore, we have created an interactive model that allows you to explore different mass distributions of the galaxy and see how they affect the rotation curve. You can adjust the mass of the <span style="color:grey">bulge</span>, <span style="color:lightblue">disk</span>, and <span style="color:green">dark matter halo</span>, as well as their shape and scale lengths, and see how the rotation curve changes. This will help you understand the impact of dark matter on the rotation curve and the complexity of the mass distribution in the galaxy.
 
 This model requires constant calculations and therefore cannot be enbeded in this document. However, you can access it in this [Google Colab notebook](https://colab.research.google.com/drive/1LeOCqU1tu573g2BQBTo96x3h3emR7yH0?usp=sharing) and explore the different scenarios.
-
-<iframe src="https://colab.research.google.com/drive/1LeOCqU1tu573g2BQBTo96x3h3emR7yH0?usp=sharing" width="1000" height="600"></iframe>
 
 ### Conclusion
 The constant velocity observed in the rotation curves strongly suggests the presence of an unseen mass, which we attribute to dark matter. However, the exact distribution of this dark matter is still uncertain, and further research is needed to determine its properties. The interactive model allows you to explore different mass distributions and see how they affect the rotation curve, providing a better understanding of the complexity of the mass distribution in the Milky Way.
